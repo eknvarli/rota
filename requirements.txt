@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+aiosqlite
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+pydantic-settings
+httpx
+beautifulsoup4
+google-search-results
+openai
+groq
+python-dotenv
+google-genai
